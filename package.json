@@ -1,0 +1,36 @@
+{
+  "name": "nebulauth-auth-nodejs",
+  "version": "1.0.0",
+  "description": "NebulAuth authentication module for nodejs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkCenobyte/nebulauth-auth-nodejs.git"
+  },
+  "keywords": [
+    "nebulauth",
+    "authentication"
+  ],
+  "author": "DarkCenobyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkCenobyte/nebulauth-auth-nodejs/issues"
+  },
+  "homepage": "https://github.com/DarkCenobyte/nebulauth-auth-nodejs#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "web3": "^1.8.1"
+  }
+}
