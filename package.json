@@ -7,9 +7,6 @@
   "files": [
     "/dist"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DarkCenobyte/nebulauth-auth-nodejs.git"
@@ -25,7 +22,7 @@
   },
   "homepage": "https://github.com/DarkCenobyte/nebulauth-auth-nodejs#readme",
   "devDependencies": {
-    "typescript": "^4.8.4"
+    "typescript": "^4.9.3"
   },
   "engines": {
     "node": ">=14.0.0"
